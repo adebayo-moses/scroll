@@ -2,7 +2,13 @@ console.log('Hello Crack Head');
 
 new ScrollyVideo({
     scrollyVideoContainer: 'scrolly-video',
-    src: 'https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/videos/galaxy-s23-ultra-highlights-design.webm',
+    // src: 'https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/videos/galaxy-s23-ultra-highlights-design.webm',
+    src: 'https://image-us.samsung.com/us/smartphones/galaxy-z-flip4/configurator/02-B4-Bespoke-Animated-KV-Video-DT-720x540.mp4',
+    transitionSpeed: '0.5',
+    cover: 'true',
+    full: 'true',
+    trackScroll: 'true',
+    setCurrentTimePercent: '3',
 });
 
 // var img = document.createElement('img');
