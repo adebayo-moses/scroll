@@ -19,3 +19,11 @@ body {
     overflow: hidden;
     transform: translate(-50%, -50%);
 }
+
+.card {
+    background-color: white;
+    padding: 18px 24px;
+    color: black;
+    max-width: 400px;
+    border-radius: 4px;
+}

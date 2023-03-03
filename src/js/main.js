@@ -4,7 +4,11 @@ new ScrollyVideo({
     scrollyVideoContainer: 'scrolly-video',
     // src: 'https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/videos/galaxy-s23-ultra-highlights-design.webm',
     src: 'https://image-us.samsung.com/us/smartphones/galaxy-z-flip4/configurator/02-B4-Bespoke-Animated-KV-Video-DT-720x540.mp4',
-    transitionSpeed: '0.5',
+
+    // src: 'https://image-us.samsung.com/us/smartphones/galaxy-z-fold4/configurator/04-Q4-Group-animated-KV-Video-DT-720x540.mp4',
+
+    // src: 'https://images.samsung.com/is/content/samsung/assets/us/tvs/neoqled-tv/02242023/02-NQLED-MLP-Highlights_FT12_4K-Series.mp4',
+    // transitionSpeed: '0.5',
     cover: 'true',
     full: 'true',
     trackScroll: 'true',
